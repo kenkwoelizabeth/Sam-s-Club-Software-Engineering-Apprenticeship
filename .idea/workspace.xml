@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e4d989e-aaa2-46f2-83b3-ebc21bf38167" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -44,10 +49,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Kris/Desktop/Sam Club SE/Classwork"
+    "last_opened_file_path": "C:/Sam Club SE/Classwork"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Loop">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Array" />
       <module name="Classwork" />
@@ -102,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.FlowControl" />
         <item itemvalue="Application.Day1Scan" />
       </list>

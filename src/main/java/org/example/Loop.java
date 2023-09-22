@@ -67,8 +67,12 @@ public class Loop {
         int num1 = sc.nextInt();
         System.out.println("Enter Second Number:");
         int num2 = sc.nextInt();
-        int sum =num1 + num2;
-        System.out.println("The sum is : " + sum );
+        int sum = 0;
+        // for loop for the problem
+        for (int i = num1+1; i <num2; i++) {
+            sum += i;
+        }
+        System.out.println("Sum is " + sum);
     }
 
 }
