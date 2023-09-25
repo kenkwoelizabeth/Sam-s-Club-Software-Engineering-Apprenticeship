@@ -7,7 +7,7 @@ public class Loop {
         int m = 99;
         // A loop that will display a string 99 times.
         for (int i = 0; i < m; i++) {
-            //        System.out.println("Software Developer"+ i);
+                //    System.out.println("Software Developer"+ i);
         }
         //A loop that will display every odd number from 0 to 99
         for (int i = 0; i <= m; i++) {
