@@ -10,6 +10,7 @@ public class Array {
         int size= numbers1.length;
         for(int i=0; i < size;i++){
             System.out.println(i);
+            System.out.println(numbers.length);
         }
     }
 }
