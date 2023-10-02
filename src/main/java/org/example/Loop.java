@@ -7,12 +7,12 @@ public class Loop {
         int m = 99;
         // A loop that will display a string 99 times.
         for (int i = 0; i < m; i++) {
-                    System.out.println("Software Developer"+ i);
+            System.out.println("Software Developer" + i);
         }
         //A loop that will display every odd number from 0 to 99
         for (int i = 0; i <= m; i++) {
             if (i % 2 == 1) {
-                          System.out.println(i);
+                System.out.println(i);
             }
         }
         // A loop that will display every even number from 0 to 99
@@ -25,7 +25,7 @@ public class Loop {
         // The same loop as 3, but in a different way.
         for (int i = 0; i < m; i++) {
             while (i % 2 == 0) {
-                        System.out.println(i);
+                System.out.println(i);
                 i++;
             }
         }
@@ -52,7 +52,6 @@ public class Loop {
 
         }
         System.out.println(sum2);
-
 
 
         //A loop that finds a sum of the numbers
