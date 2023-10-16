@@ -21,7 +21,7 @@ public class Main {
         Person alice = library.findPersonById(1);
 
         if (book1 != null && alice != null) {
-           boolean checkoutSuccess = book1.isCheckedOut();
+            boolean checkoutSuccess = book1.isCheckedOut();
             if (checkoutSuccess) {
                 System.out.println(alice.getName() + " has checked out " + book1.getName());
             } else {
@@ -36,9 +36,9 @@ public class Main {
         if (book1 != null && alice != null) {
             boolean checkInSuccess = book1.isCheckedIn();
             if (checkInSuccess) {
-                System.out.println(alice.getName() + " has checked in " +  book1.getName());
+                System.out.println(alice.getName() + " has checked in " + book1.getName());
             } else {
-                System.out.println("Unable to check in " +  book1.getName());
+                System.out.println("Unable to check in " + book1.getName());
             }
         }
 

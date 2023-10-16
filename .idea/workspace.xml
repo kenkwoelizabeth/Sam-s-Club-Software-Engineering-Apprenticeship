@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e4d989e-aaa2-46f2-83b3-ebc21bf38167" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iheritance2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iheritance2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iheritance2/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iheritance2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/recursive/RecursiveMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,35 +63,9 @@
     "last_opened_file_path": "C:/Sam Club SE/Classwork"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Array" />
-      <module name="Classwork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.org.example.iheritance2.Main">
     <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Array2" />
-      <module name="Classwork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Loop" />
       <module name="Classwork" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +90,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Sample" />
+    <configuration name="RecursiveMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.recursive.RecursiveMethods" />
       <module name="Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.OOP.*" />
+          <option name="PATTERN" value="org.example.recursive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.iheritance2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.iheritance2.Main" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.iheritance2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.inheritance.Main" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.iheritance2.Main" />
+        <item itemvalue="Application.org.example.inheritance.Main" />
+        <item itemvalue="Application.RecursiveMethods" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Array2" />
-        <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Loop" />
       </list>
     </recent_temporary>
   </component>
